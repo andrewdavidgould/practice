@@ -1,4 +1,8 @@
 div {
     width: 200px;
     height: 200px;
+    background-color: blue;
+    border-width: 3px;
+    border-color: red;
+    border-style: double;
 }
